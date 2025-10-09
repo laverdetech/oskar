@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Základné štýly pre telo sú riadené priamo v komponente OskarDashboard,
+  aby sa zabezpečila konzistentnosť s dynamickým pozadím.
+*/
